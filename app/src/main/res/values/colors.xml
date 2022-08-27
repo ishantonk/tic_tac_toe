@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="purple_200">#FF9E9E9E</color>
+    <color name="purple_500">#FF6200</color>
+    <color name="purple_700">#FF3F00</color>
+    <color name="purple_900">#FF0F00</color>
+    <color name="ocean1">#345EA8</color>
+    <color name="ocean2">#3B8AC3</color>
+    <color name="ocean3">#4AB4DE</color>
+    <color name="ocean4">#EEDBCB</color>
+    <color name="mystic1">#85F1FE</color>
+    <color name="mystic2">#21AEE4</color>
+    <color name="darkBlue">#14213D</color>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="heading_title">Welcome to Tic Tac Toe</string>
+    <string name="heading_subtitle_computer">Play against the computer</string>
+    <string name="heading_subtitle_human">Play against a friend</string>
+    <string name="main_grid">game_grid</string>
+    <string name="play_box">play_box_image</string>
+    <string name="reset_button">Reset</string>
+    <string name="enter_player_name">Enter Player Name</string>
+    <string name="player_one">Player One</string>
+    <string name="player_two">Player Two</string>
+    <string name="start_game">Start Game</string>
+    <string name="restart_game">Restart Game</string>
+</resources>
